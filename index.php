@@ -38,5 +38,3 @@ $myhostname = gethostname();
   </TD>
 </TR>
 </TABLE>
-<BR><BR>
-<A HREF=load.php>Add load</A>
