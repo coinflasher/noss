@@ -10,7 +10,7 @@ $myhostname = gethostname();
       <tr>
         <td width=50>&nbsp;</td>
         <td align=left width=100><img src=NE.png width=100></td>
-        <td align=center><b><font face="arial" color="white">-={ NOSS }=-</font></b></td>
+        <td align=center><b><font face="arial" color="white" size=+5>-={ NOSS }=-</font></b></td>
         <td align=right width=100><font size="3" face="arial" color="white">
           Ver: <?php print "$ver"; ?>
 
